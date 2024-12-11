@@ -15,16 +15,29 @@ The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/uciml/mus
 
 ## Models and Evaluation  
 We implemented two machine learning models to classify mushrooms:  
-- **Random Forest Classifier**: Achieved an accuracy of **98.5%**.  
-- **XGBoost Classifier**: Achieved an accuracy of **99.2%**.  
+- **Random Forest Classifier**: Achieved an accuracy of **100%**.  
+- **XGBoost Classifier**: Achieved an accuracy of **100%**.  
 
 Feature importance analysis was performed to identify the most critical factors influencing the classification.  
 
 ## Results  
-- The **XGBoost model** outperformed Random Forest with a slight edge in accuracy.  
-- Feature importance revealed that attributes like **odor** and **gill size** significantly impacted predictions.  
+- Both the models had the same accuracy score.
 
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/mushroom-classification.git  
+   git clone https://github.com/yourusername/mushroom-classification.git
+2. Install Dependencies:
+   ```bash
+   pip install -r requirements.txt  
+3. Run the Jupyter notebook or Python script
+   ```bash
+   python mushroom_classification.py
+
+**Future Improvements**
+- Implement additional models like Neural Networks for potential performance gains.
+- Perform hyperparameter optimization to fine-tune model accuracy further.
+- Explore interpretability techniques like SHAP to gain deeper insights.
+
+
+
