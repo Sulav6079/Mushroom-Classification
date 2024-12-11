@@ -60,9 +60,6 @@ We implemented two machine learning models to classify mushrooms:
    ```bash
    python mushroom_classification.py
 
-**Future Improvements**
-- Implement additional models like Neural Networks for potential performance gains.
-- Perform hyperparameter optimization to fine-tune model accuracy further.
 
 
 
