@@ -21,8 +21,6 @@ We implemented two machine learning models to classify mushrooms:
 - **Random Forest Classifier**: Achieved an accuracy of **100%**.  
 - **XGBoost Classifier**: Achieved an accuracy of **100%**.  
 
-Feature importance analysis was performed to identify the most critical factors influencing the classification.  
-
 ## Results  
 - Both the models had the same accuracy score.
 
