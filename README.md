@@ -1,3 +1,6 @@
+![467460726_435528936292952_6332135180497093630_n](https://github.com/user-attachments/assets/21e7ddbe-a606-4870-8766-cc72a4ecaef9)
+
+
 # Mushroom Classification Project  
 
 This project involves building a machine learning pipeline to classify mushrooms as **edible** or **poisonous** based on their characteristics. Using a dataset of 8,124 mushroom samples with 23 categorical features, we applied advanced machine learning models to achieve high classification accuracy.  
