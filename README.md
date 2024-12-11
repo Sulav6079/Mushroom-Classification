@@ -53,9 +53,7 @@ We implemented two machine learning models to classify mushrooms:
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/yourusername/mushroom-classification.git
-2. Install Dependencies:
-   ```bash
-   pip install -r requirements.txt  
-3. Run the Jupyter notebook or Python script
+   
+2. Run the Jupyter notebook or Python script
    ```bash
    Python-2 Project.ipynb
