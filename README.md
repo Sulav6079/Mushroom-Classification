@@ -7,9 +7,6 @@ This project involves building a machine learning model to classify mushrooms as
 
 ## Dataset  
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classification/data). Each sample includes features such as cap shape, color, odor, habitat, and others, along with the target label:  
-- **'e'**: Edible  
-- **'p'**: Poisonous
-
 
 | **Feature**                     | **Description**                                                                 |
 |----------------------------------|---------------------------------------------------------------------------------|
