@@ -58,8 +58,4 @@ We implemented two machine learning models to classify mushrooms:
    pip install -r requirements.txt  
 3. Run the Jupyter notebook or Python script
    ```bash
-   python mushroom_classification.py
-
-
-
-
+   Python-2 Project.ipynb
